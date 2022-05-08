@@ -1,0 +1,3 @@
+# Ignore OuvrirOS SDK access to private resources
+-dontwarn ouvriros.**
+-dontnote ouvriros.**
